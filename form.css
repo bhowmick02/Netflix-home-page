@@ -1,0 +1,47 @@
+.form{
+    margin: 0 100px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 34px;
+}
+
+input{
+    background-color: black;
+    padding: 16px 16px;
+    border: 1px solid red;
+    border-radius: 8px;
+    width: 40%;
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
+
+input:focus-within{
+    outline: none;
+    border-color: red;
+    border-width: 3px;
+}
+
+.getstarted{
+    margin-left: 4px;
+    background-color: rgb(203, 5, 5);
+    padding: 16px 16px;
+    color: white;
+    border-radius: 8px;
+    width: 16%;
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.getstarted:hover{
+    background-color: #000000;
+    color: red;
+}
+
+.getstarted:active{
+    background-color: #000000;
+    color: red;
+}

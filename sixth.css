@@ -1,0 +1,60 @@
+.sixth{
+    background-color: black;
+    color: white;
+    text-align: left;
+    height: 100vh;
+}
+
+.sixth h1{
+    text-align: center;
+    padding: 23px 0;
+    font-size: 2.5rem;
+}
+
+.sixth h3:hover{
+    cursor: pointer;
+}
+
+.one{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+    margin-bottom: 6px ;
+}
+
+.two{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+    margin-bottom: 6px ;
+}
+
+.three{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+    margin-bottom: 6px ;
+}
+
+.four{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+    margin-bottom: 6px ;
+}
+
+.five{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+    margin-bottom: 6px ;
+}
+
+.six{
+    background-color: rgb(35, 35, 35);
+    padding: 18px 50px;
+}
+
+.sixth p{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 23px 0;
+}
+

@@ -1,0 +1,32 @@
+.second{
+    background-color: black;
+    height: 65vh;
+    width: 100%;
+    padding-top: 100px;
+    padding-left:100px ;
+    
+}
+
+.content h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+}
+
+.content p{
+    text-align: left;
+    padding: 23px 0;
+    font-size: 1.3rem;
+    color: white;
+    width: 50%;
+}
+
+.content img{
+    width: 30%;
+    margin-left: 57vw;
+    padding: 0;
+    margin-top: -180px;
+}

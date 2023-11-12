@@ -1,0 +1,57 @@
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li{
+    margin: 0 23px;
+    text-decoration: none;
+
+}
+
+.Signin{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 3px solid red;
+    background-color: black;
+    color: red;
+}
+
+.Signin:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
+
+.first{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: cover;
+    height: 99vh;
+}
+
+.container{
+    margin: 100px 0;
+}
+
+.first h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.first h3{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.first p{
+    text-align: center;
+    padding: 23px 0;
+    font-size: 1.3rem;
+    color: white;
+}

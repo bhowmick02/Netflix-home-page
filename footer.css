@@ -1,0 +1,10 @@
+.footer1 {
+    background-color: black;
+    color: white;
+    padding: 34px 34px;
+}
+
+.footer1 h4{
+    padding:13px 0;
+    text-decoration: underline;
+}

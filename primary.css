@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Homemade+Apple&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    display: flex;
+     justify-content: space-around;
+     align-items: center;
+     height: 90px;  
+     font-family: 'Poppins', sans-serif;
+     color: white;
+     font-size: 1.3rem;
+}
+
+nav img{
+    height: auto;
+    width: 140px;
+}

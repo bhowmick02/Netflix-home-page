@@ -1,0 +1,32 @@
+.fourth{
+    background-color: black;
+    height: 65vh;
+    width: 100%;
+    padding-top: 100px;
+    padding-left:100px ;
+    
+}
+
+.thirdcontent h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+}
+
+.thirdcontent p{
+    text-align: left;
+    padding: 23px 0;
+    font-size: 1.3rem;
+    color: white;
+    width: 50%;
+}
+
+.thirdcontent img{
+    width: 40%;
+    margin-left: 53vw;
+    padding: 0;
+    margin-top: -180px;
+}
